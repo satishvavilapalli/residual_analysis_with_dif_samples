@@ -2,6 +2,7 @@
 setwd('D:\\Praxis_Ds\\Projects\\Bigmart_Sales')
 
 # import the data
+sales = read.csv('train.csv')
 
 # have a look on the data
 head(sales)
